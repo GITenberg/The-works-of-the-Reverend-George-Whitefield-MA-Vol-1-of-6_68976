@@ -1,11 +1,16 @@
 _repo: The-works-of-the-Reverend-George-Whitefield-MA-Vol-1-of-6_68976
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68976-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitefield, George
     gutenberg_agent_id: '55037'
     url: http://www.gutenberg.org/2009/agents/55037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68976#The-works-of-the-Reverend-George-Whitefield-MA-Vol-1-of-6
 gutenberg_issued: '2022-09-12'
 identifiers:
   gutenberg: '68976'
